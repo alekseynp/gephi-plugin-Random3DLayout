@@ -39,6 +39,9 @@ Contributor(s):
 
 Portions Copyrighted 2011 Gephi Consortium.
 Portions Copyrighted 2014 NGRAIN Corporation.
+
+NGRAIN Corporation elects to include this software in this distribution
+under the CDDL license.
  */
 
 package com.ngrain.Random3DLayout;
